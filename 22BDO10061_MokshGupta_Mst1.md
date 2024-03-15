@@ -17,8 +17,7 @@ The task
  16. Add and commit the newest change
 
 
-![1](https://github.com/mokshgupta03/22BDO10061_MokshGupta_Mst1/assets/115498284/be98399b-6aae-4355-ac76-b5ec3daf6637)
-![2](https://github.com/mokshgupta03/22BDO10061_MokshGupta_Mst1/assets/115498284/14d1b08b-6f60-4313-8877-149c36f1f601)
+https://github.com/mokshgupta03/22BDO10061_MokshGupta_Mst1/upload/main.pdf
 
 1.) use gitinit command to initialize a empty git repository.
 # ![image](https://github.com/mokshgupta03/22BDO10061_MokshGupta_Mst1/assets/115498284/4f8b1c52-292b-4234-b723-afccd22dcc51)
